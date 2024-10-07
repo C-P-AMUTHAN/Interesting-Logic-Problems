@@ -31,3 +31,9 @@ public class PhoneNumber {
         sc.close();
     }
 }
+
+
+// example
+// no = 9 4 4 3 4 4 7 0 9 9
+// 9(odd) sum = 9 + 4 = 13 + 4 = 17 + 3 = 20(even) print 20
+// 4(even) sum = 4 + 4 = 8 + 7 = 15(odd) print 15
